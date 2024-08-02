@@ -1,0 +1,2 @@
+SELECT OrderDetailID, OrderID, ProductID, Quantity
+FROM OrderDetails;
