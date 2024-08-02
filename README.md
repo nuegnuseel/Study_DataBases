@@ -20,5 +20,6 @@ FROM
 
 ```
 ## Result:
+![q01](https://github.com/user-attachments/assets/dfdaee48-19d5-4229-9acd-284004c2282d)
 
 
