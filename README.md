@@ -1,9 +1,12 @@
 # Study_DataBases
-Some basic Git commands are:
+Quest01 :
+- Table : OrderDetails
+- 조건 : 제품명,가격, 주문 갯수, 고객명 표시
+- 결과 표시
 ```
-git status
-git add
-git commit
+SELECT OrderDetailID, OrderID, ProductID, Quantity
+FROM OrderDetails;
+
 ```
 ## A second-level heading
 [study_gits.iml](./study_gits.iml)
