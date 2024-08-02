@@ -1,0 +1,9 @@
+SELECT TOP 1
+    EmployeeID AS [직원ID],
+    COUNT(OrderID) AS [주문수]
+FROM 
+    Orders
+GROUP BY 
+    EmployeeID
+ORDER BY 
+    COUNT(OrderID) DESC;
